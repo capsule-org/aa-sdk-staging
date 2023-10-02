@@ -14,7 +14,7 @@ head:
 
 # Capsule
 
-[Capsule](https://usecapsule.com/) is a signing solution that you can use to create secure embedded MPC wallets with just an email or social login that are recoverable, portable, and permissioned across different crypto applications, so your users don't need to create different signers or contract accounts for every app they use.
+[Capsule](https://usecapsule.com/) is a signing solution that you can use to create secure, embedded MPC wallets with just an email or a social login. Capsule wallets are portable across applications, recoverable, and programmable, so your users do not need to create different signers or contract accounts for every application they use.
 
 Combining Capsule with Account Kit allows you to get the best of both on and off-chain programmability. You can use Capsule to create a wallet that works across apps, and then connect it to Account Kit to create expressive Smart Contract Accounts for your users!
 
