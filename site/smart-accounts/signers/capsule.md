@@ -18,7 +18,7 @@ head:
 
 Combining Capsule with Account Kit allows you to get the best of both on and off-chain programmability. You can use Capsule to create a wallet that works across apps, and then connect it to Account Kit to create expressive Smart Contract Accounts for your users!
 
-# Integration
+## Integration
 
 Getting started with Capsule is easy-- simply get access to the SDK and an API key by filling out [this form](https://form.typeform.com/to/hLaJeYJW). From there, if you're adding additional permissions or automation and would like deeper support, please refer to our [full developer docs](https://docs.usecapsule.com) or get in touch via hello@usecapsule.com
 
